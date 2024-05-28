@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+webbrowser
+pyautogui
+psutil
+screen-brightness-control
+requests
+pywhatkit
+pygame
+geopy
+geocoder
+wolframalpha

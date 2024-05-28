@@ -1,0 +1,68 @@
+pyttsx3:
+Description: A Python library for text-to-speech conversion. It provides a simple interface for converting text into speech.
+Use Case: Used to enable your assistant to speak or provide auditory responses.
+
+
+speech_recognition:
+Description: Library for speech recognition in Python. It supports multiple APIs for recognition, including Google Web Speech API, Sphinx, and more.
+Use Case: Used to convert spoken language into written text, enabling voice commands.
+
+
+webbrowser:
+Description: Provides a high-level interface for opening web browsers. It allows you to open URLs in a new browser window.
+Use Case: Used to open web pages or perform web-related actions through your desktop assistant.
+
+
+pyautogui:
+Description: A library for GUI automation. It provides functions to control the mouse and keyboard, take screenshots, and perform other GUI-related tasks.
+Use Case: Used for automating interactions with the graphical user interface.
+
+
+psutil:
+Description: Cross-platform library for retrieving information on running processes and system utilization. It provides an interface for accessing system details.
+Use Case: Used for monitoring system resources and managing processes.
+
+
+screen_brightness_control:
+Description: A library for controlling the brightness of the screen. It supports various backends for different operating systems.
+Use Case: Used to adjust the screen brightness programmatically.
+
+
+requests:
+Description: A library for making HTTP requests in Python. It simplifies the process of sending HTTP requests and handling responses.
+Use Case: Used for making API requests or fetching data from web services.
+
+
+os:
+Description: Python's standard library module for interacting with the operating system. It provides a way to use operating system-dependent functionality.
+Use Case: Used for tasks like file manipulation, directory operations, etc.
+
+
+pywhatkit:
+Description: A library that allows you to perform various actions using Python, such as sending messages on WhatsApp, performing Google searches, etc.
+Use Case: Used for integrating chatbot functionality and executing actions based on user commands.
+
+
+pygame:
+Description: A cross-platform set of Python modules for games and multimedia applications. It simplifies game development in Python.
+Use Case: Used for creating multimedia applications, games, or any program that requires sound and graphics.
+
+
+time:
+Description: Python's standard library module for time-related functions. It provides various time-related operations.
+Use Case: Used for managing time, delays, or timestamp-related operations.
+
+
+datetime:
+Description: Python's standard library module for working with dates and times. It provides classes for representing dates and times.
+Use Case: Used for handling date and time information in your assistant.
+
+
+geopy:
+Description: A Python library for geocoding and reverse geocoding. It provides a way to convert addresses into geographic coordinates and vice versa.
+Use Case: Used for location-based functionalities, such as getting the current location.
+
+
+wolframalpha:
+Description: A Python wrapper for the Wolfram Alpha API. It allows you to interact with Wolfram Alpha, a computational knowledge engine.
+Use Case: Used for retrieving answers to factual questions, performing calculations, and obtaining general knowledge information.
